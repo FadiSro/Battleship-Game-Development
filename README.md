@@ -54,8 +54,8 @@ Each player has a fleet of **5 ships**:
 
 When a ship is hit, it's marked. Once all the tiles of a ship are hit, it's destroyed.
 
-![Player Turn](images/missile1.png)
-![Enemy Turn](images/enemy-missile1.png)
+![Player Turn](images/missile1.png) 
+![Enemy Turn](images/enemy-missile1.png) 
 
 ---
 

@@ -99,4 +99,4 @@ Created by **Fadi Srouji**
 - 📧 Email: fadi_sroujii@outlook.com  
 - 🔗 LinkedIn: [linkedin.com/in/fadisrouji](https://www.linkedin.com/in/fadisrouji)  
 - 💼 GitHub: [github.com/FadiSro](https://github.com/FadiSro)  
-- 🎥 Project Demo: [https://youtu.be/dVAsB5UlmQw](https://youtu.be/dVAsB5UlmQw)
+- 🎥 Project Demo: [https://www.youtube.com/watch?v=_3vWfk4hiFM](https://www.youtube.com/watch?v=_3vWfk4hiFM)

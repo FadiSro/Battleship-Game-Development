@@ -66,6 +66,8 @@ The computer uses a **logical shooting strategy** inspired by the paper:
 > **"Developing a Strategy for Battleship"**  
 > by E. Y. Rodin et al., Washington University, 1988  
 > [Link to the paper](https://www.academia.edu/57012012/Developing_a_strategy_for_battleship_?sm=b)
+> [Download the full PDF](/Developing_a_strategy_for_battleship.pdf)
+
 
 📌 This strategy includes:
 - **Strafing pattern** to locate ships efficiently.
